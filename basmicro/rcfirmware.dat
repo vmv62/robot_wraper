@@ -1,0 +1,7 @@
+﻿4.1.33
+Firmware 4.1.33 Important Information:
+
+	-Fixed range calculation for ForwardBackward Compatibility Commands
+	-Added Default Speed
+	-Added Get/Set Default Speed commands
+	-Added Position, and SpeedPosition commands, default accel decel and speed are used as appropriate automatically

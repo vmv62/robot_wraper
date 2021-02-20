@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Robot</string>
+    <string name="labl1">Робот. Ручная скорость.</string>
+    <string name="labl2">Каретка. Ручная скорость.</string>
+    <string name="labl3">Робот. Автоматическая скорость.</string>
+    <string name="labl4">Каретка. Автоматическая скорость.</string>
+    <string name="conn_btn">Подключить.</string>
+    <string name="conn_don">Congrat, connection is done.</string>
+    <string name="con_don">Connection done</string>
+</resources>
